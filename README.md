@@ -1,0 +1,2 @@
+# AI-Review-Detective---Advanced-Sentiment-Fake-Review-Analyzer
+AI Review Detective analyzes e-commerce reviews using Python in Google Colab. It uses TextBlob pandas Plotly and WordCloud to assess sentiment detect fake reviews via patterns like generic language and generates insights like NPS and customer concerns.Interactive dashboards show sentiment and risks.Ideal for businesses to ensure authentic feedback.
